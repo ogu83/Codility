@@ -1,4 +1,4 @@
 # Codility
 Codility Training and Tests
 
-I try to solve some Codility Examples, Challenges and Trainings with Javascript. codility.com
+I try to solve some [Codility](https://codility.com) Examples, Challenges and Trainings with Javascript. 
