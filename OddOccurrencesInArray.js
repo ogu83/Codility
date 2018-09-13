@@ -13,5 +13,5 @@ function solution(A) {
         if (a != b)
             return a;
         A.pop();            
-    }
+    } 
 }
